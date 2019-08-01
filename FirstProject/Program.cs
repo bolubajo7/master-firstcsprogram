@@ -14,6 +14,7 @@ namespace FirstProject
             Fibonacci fibonacci = new Fibonacci();
             fibonacci.PrintFibonacciNumbers();
             Console.ReadKey(true);
+            Console.ReadLine();
             
            
         } 
