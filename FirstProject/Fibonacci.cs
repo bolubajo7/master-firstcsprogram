@@ -27,6 +27,7 @@ namespace FirstProject
                 nextNumber = sum;
 
             }
+            Console.WriteLine('\n');
         }
     }
 }
